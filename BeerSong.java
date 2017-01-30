@@ -7,6 +7,7 @@ public class BeerSong {
     }
     
     public static void Ninety_Nine_Bottles_of_Beer (){
+<<<<<<< HEAD
         int numBottles = 99;
         for (int i = 99; i > 0; i--) {
             if (i > 2) {
@@ -25,6 +26,9 @@ public class BeerSong {
                 System.out.println("Take one down, pass it around, no more bottles of beer on the wall.");
             }
         }
+=======
+
+>>>>>>> interface
     }
     
 }
